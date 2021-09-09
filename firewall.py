@@ -1,7 +1,7 @@
 # An example of a firewall for POX
 # Blocking ICMP requests to the MAC address(es) 
 # listed in the 'rules' list.
-# Mainteiner me@sergeel.space
+# Mainteiner me@sergeek.space
 
 from pox.core import core
 import pox.lib.packet as pkt
